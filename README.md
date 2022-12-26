@@ -101,12 +101,28 @@ Lo ideal es que en este paso definas tú qué proyecto desarrollar para poner a 
 
 
 ## Fase 3: Bases de datos :floppy_disk:
+Para poder seguir tu camino en el desarrollo de software es imperativo que sepas qué es una Base de datos, los tipos de Bases de Datos que existen y cómo trabajar con estas.
 
 ### Paso1: Introducción a las Bases de Datos
+En esta etapa se buscará la adquisición de los conceptos clave para saer de qué se habla cuando se habla de Bases de Datos.  
+**Links**
+* [Qué son las BDs](https://www.youtube.com/watch?v=knVwokXITGI&t=4s)
+* [SQL/NoSQL](https://www.youtube.com/watch?v=CuAYLX6reXE)
 
 ### Paso 2: MySQL
+En este paso se busca obtener los conocimientos necesarios para trabajar en Bases de datos relacionales.  
+**Links**
+* [Curso de Bases de Datos](https://codigofacilito.com/cursos/base-datos-profesional)
+* [MySQL (EN)](https://www.youtube.com/watch?v=ER8oKX5myE0)
+* [Qué es SQL](https://www.youtube.com/watch?v=Z91b7SbE8Eo)
+* [Curso SQL desde Cero](https://www.youtube.com/watch?v=uUdKAYl-F7g&t=1190s)
 
 ### Opcional: MongoDB
+En adición a las bases de datos relacionales se puede añadir MongoDB, una tecnología de almacenamiento por colecciones.  
+**Links**
+* [Lista de Reproducción de MongoDB](https://www.youtube.com/watch?v=nlOWsnO-d7Q&list=PLXXiznRYETLcJE_4U9qN2pysZOSYyL4Mh)
+* [Curso MongoDB](https://www.youtube.com/watch?v=DPdAfgmkNuE)
+* [Curso Mongo DB](https://www.youtube.com/watch?v=lWMemPN9t6Q)
 
 
 ## Fase 4: Backend :satellite:
@@ -131,6 +147,8 @@ Lo ideal es que en este paso definas tú qué proyecto desarrollar para poner a 
 ### Paso 1: Introducción al desarrollo movil.
 
 ### Paso 2: Introducción a React Native.
+**Links**
+* [Curso ReactNative](https://codigofacilito.com/cursos/react-native-2021)
 
 ### Paso 3: Proyecto Integrador
 
