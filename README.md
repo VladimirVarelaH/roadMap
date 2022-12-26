@@ -46,21 +46,57 @@ Si se desea se pueden profundizar algunos conocimientos, como lo es el desarroll
 
 
 ## Fase 2: Librerías de JavaScript :sparkles:
+Para poder desarrollar proyectos modernos y complejos es recomendable apoyarse de los recursos disponibles, algunos de estos son las librerías de JavaScript, disponibles (en su mayoría) a través de NPM, el `Node Package Manager`.
 
 ### Paso 1: Introducción a Node.js y NPM
+**Links:**
+* [Qué es Node?](https://www.youtube.com/watch?v=xJzzu7MVZXw)
+* [NP.. qué?](https://www.youtube.com/watch?v=KWKFCDMoS2w)
+* [Instalación](https://nodejs.org/en/)
+* [Primeros Pasos](https://www.youtube.com/watch?v=w-hKkMQR5O8)
 
-### Paso 2: Introducción a React y sus librerías
+### Paso 2: Introducción al protocolo HTTP y las APIs
+Como parrte del proceso de aprendizage es importante entender qué cazzo es una API y cómo funciona el protocolo HTTP
+* [Qué es una API?](https://www.youtube.com/watch?v=u2Ms34GE14U)
+* [Cómo funciona HTTP?](https://www.youtube.com/watch?v=6jKkd3buI0o&t=70s)
+* [HTTP](https://www.youtube.com/watch?v=hMt9bxvonL4)
+
+### Paso 3: Introducción a React y sus librerías
 Introducción a los conceptos centrales de esta tecnología y su entorno, manejo de estados con Redux y ruteo de la aplicación.
+* [Repaso de JavaScript](https://www.youtube.com/watch?v=lVqHiTCIRQg)
+* [Curso de React](https://www.youtube.com/watch?v=rLoWMU4L_qE)
+* [Redux](https://www.youtube.com/watch?v=j-jzI3wkkVk)
+* [Ajax](https://www.youtube.com/watch?v=hRlApOXoVSs)
+* [Curso de React con Proyectos](https://www.youtube.com/watch?v=6Jfk8ic3KVk)
+* [Curso de React](https://codigofacilito.com/cursos/react-profesional)
 
-### Paso 3: Introducción a Sass
+### Paso 4: Introducción a Sass
+Sass en un preprocesador de CSS, que facilita el trabajo y mantenimiento del código que da estilos a las aplicaciones.
+**Links:**
+* [Lista de reproducción de Sass](https://www.youtube.com/watch?v=Nro1WwTdCK4&list=PLPl81lqbj-4I4VwUdjbV2iFg7wispiXKP)
+* [Curso Sass](https://www.youtube.com/watch?v=BtiiM3jeb_c)
+* [Curso Sass](https://www.youtube.com/watch?v=rDBzoq86SXY)
+* [Curso Sass](https://www.youtube.com/watch?v=kaSVabk-jbA)
+* [Mixins en Sass](https://www.youtube.com/watch?v=eazZiFtmGPE)
 
-### Paso 4: Introducción a Git
+### Paso 5: Introducción a Git
+El manejo de versiones es una de las habilidades más necesarias en el desarrollo de sotware, para eso utilizamos Git.
+**Links**
+* [Curso de Introducción a Git](https://www.youtube.com/watch?v=HiXLkL42tMU)
+* [Git en una hora](https://www.youtube.com/watch?v=VdGzPZ31ts8&t=745s)
 
-### Paso 5: Introducción al protocolo HTTP y las APIs
 
 ### Paso 6: Proyecto Integrador
+Lo ideal es que en este paso definas tú qué proyecto desarrollar para poner a prueba tus conocimientos, pero si no se te ocurre nada puedes utilizar estos recursos para 
+**Links**
+* [Ideas de proyectos](https://www.youtube.com/watch?v=oT-feDPuJmk)
+* [App de películas](https://www.youtube.com/watch?v=hdgUDN1sgtA)
+* [API de StarWars](http://swapi.dev)
 
 ### Opcional: Alternativas a React (Vue.js / Angular).
+**Links:**
+* [Curso de Vue.JS](https://www.youtube.com/watch?v=iENgabVQSYY)
+* [Curso de Angular](https://www.youtube.com/watch?v=kqYuyACFVkE)
 
 
 ## Fase 3: Bases de datos :floppy_disk:
