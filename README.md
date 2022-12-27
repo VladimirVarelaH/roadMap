@@ -35,6 +35,7 @@ En este paso unirás los conocimientos que tines en Maquetación y Programación
 **Links**
 * [Crea Tu Primera Página Web](https://www.youtube.com/watch?v=Q2imkhmhOFo)
 * [Curso Integrador de Frontend](https://codigofacilito.com/cursos/frontend-profesional)
+* [Ideas de proyectos](https://www.frontendmentor.io/challenges?sort=difficulty|asc)
 
 ### Opcional: Efectos y animaciones con CSS y JavaScript
 Si se desea se pueden profundizar algunos conocimientos, como lo es el desarrollo de animaciones con CSS, HTML avanzado o HTML semántico.  
@@ -126,32 +127,60 @@ En adición a las bases de datos relacionales se puede añadir MongoDB, una tecn
 
 
 ## Fase 4: Backend :satellite:
+A la hora de desarrollar una aplicación no sólo es importante la programación de la interfaz, si no también el desarrollo del Backend, dónde la lógica del negocio y la seguridad de la aplicación se implementan en forma de código.
 
 ### Paso 1: Introducción al Backend
+Para poder comenzar a desarrollar en el Backend es importante tener en claro ciertos conceptos, se recomiendan estos videos.  
+* [Qué es el Backend](https://www.youtube.com/watch?v=7_RfjvWmIm8)
+* [Arquitectura de Software](https://www.youtube.com/watch?v=7ukajubprdE)
+* [Microservicios](https://www.youtube.com/watch?v=TSiso1F6oqw)
 
 ### Paso 2: Tecnologías de Backend
+En esta ruta se considdera la implemetación de soluciones utilizando JavaScript con NodeJS como lenguaje de programación, Express como framework y MySQL como base de datos, pero perfectamente podrías reemplazar MySQL por MongoDB, Express por NextJS o, si lo deseas, aprender otros lenguajes de programación y sus respectivos frameworks (como Python con Flask)  
 **Links:**
 * [Node.js desde Cero](https://www.youtube.com/watch?v=BhvLIzVL8_o&t=1197s)
+* [Levantando API con Express](https://www.youtube.com/watch?v=dkic3MU3858)
+* [Express desde Cero](https://www.youtube.com/watch?v=JmJ1WUoUIK4)
+* [Verbos HTTP](https://www.youtube.com/watch?v=0jTP5yO8Y-0)
 
-### Paso 3: Desarrollo de APIs.
-
-### Paso 4: Conección con Base de Datos.
-
-### Paso 5: Proyecto Integrador (CRUD API)
+### Paso 3: Proyecto Integrador (CRUD API)
+En este punto la idea es que desarrolles un proyecto uniendo los conocimientos previos en React con tus nuevos conocimientos en Express, desarrollando una aplicación de Registro y Control de empleados, este sistema tiene que contar con un Login/Logout para el administrador y las vistas que se consideren necesarias para crear, editar y eliminar (despedir) empleados.
 
 ### Opcional: Desarrollo con MVC.
+**Links**
+* [Qué es MVC?](https://www.youtube.com/watch?v=UU8AKk8Slqg)
 
 
 ## Fase 5: Mobile Apps :iphone:
 
-### Paso 1: Introducción al desarrollo movil.
+### Paso 1: Introducción al desarrollo movil.  
+En esta ruta se considera el desarrollo de aplicaciones moviles con React Native, pero perfectamente se puede reemplazar por la tecnología que se prefiera.  
+* [Contexto del desarrollo Mobile](https://www.youtube.com/watch?v=fU8wT6qYw7A&t=398s)
+* [Qué es React Native](https://www.youtube.com/watch?v=i1uoJCsAxWc)
 
 ### Paso 2: Introducción a React Native.
 **Links**
+* [Lista de Reproducción](https://www.youtube.com/watch?v=kbq339ksiOQ&list=PLUlw6638d2QZFbQfC3sB5mKWJUWr2HEkc)
+* [Curso de React Native](https://www.youtube.com/watch?v=qi87b6VcIHY)
 * [Curso ReactNative](https://codigofacilito.com/cursos/react-native-2021)
 
 ### Paso 3: Proyecto Integrador
 
 ### Opcional: Firebase
+Firebase es una alternativa al desarrollo Backend, si deseas aprenderlo aquí hay algunos recursos.  
+**Links**
+* [Curso Firebase](https://www.youtube.com/watch?v=Nb7NGjyx1eo)
+* [Lista de Reproducción](https://www.youtube.com/watch?v=gsePWTrOCZE&list=PLPl81lqbj-4JiR1Cio6xEygCZDmZmDUWI)
 
 ### Opcional: Flutter / Kotlin / Swift.
+Estas son otras tecnologías alternativas a React Native.  
+**Links**
+* [Liista de Reproducción de Flutter](https://www.youtube.com/watch?v=wTibz0TuW7k&list=PLutrh4gv1YI8ap4JO23lN81JOSZJ3i5OO)
+* [Curso de Flutter](https://www.youtube.com/watch?v=2uZjsHFob5s)
+* [Lista de Reproducción de Kotlin](https://www.youtube.com/watch?v=fWGTILchXTM&list=PLNdFk2_brsRdDzgiJSamO4vC0cAiRXcH4)
+* [Curso de Kotlin](https://www.youtube.com/watch?v=O1nfWCicMWw)
+* [Lista de Reproducción de Swift](https://www.youtube.com/watch?v=-w3R4DEwd2g&list=PLNdFk2_brsRdyYGDX8QLFKmcpQPjFFrDC)
+* [Curso de Swift](https://www.youtube.com/watch?v=hGIzLGgf3Bo)
+
+## Despedida :mortar_board:
+Esto es sólo el inicio, siempre puedes seguir aprendiendo de los temas que más te gusten y continuar tu formación, estos son sólo algunos consejos de por dónde avanzar, siempre que algún video no te convenza puedes reemplazarlo por otro, la documentación oficial es una buena guía para dominar una tecnología.
