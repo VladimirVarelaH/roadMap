@@ -3,6 +3,35 @@
 ## Tabla de Contenidos
 * [Fase 1](https://github.com/VladimirVarelaH/roadMap#fase-1-fundamentos-del-frontend-school_satchel)
   * [Intro a la Programacióncon JS](https://github.com/VladimirVarelaH/roadMap#paso-1-introducci%C3%B3n-a-la-programaci%C3%B3n-con-javascript)
+  * [Maquietación Web](https://github.com/VladimirVarelaH/roadMap#paso-2-introducci%C3%B3n-a-la-maquetadic%C3%B3n-web-htmlcss)
+  * [DOM y Eventos](https://github.com/VladimirVarelaH/roadMap#paso-3-manipulaci%C3%B3n-de-dom-y-eventos)
+  * [Proyecto](https://github.com/VladimirVarelaH/roadMap#paso-4-proyecto-integrador)
+  * [Opcional](https://github.com/VladimirVarelaH/roadMap#opcional-efectos-y-animaciones-con-css-y-javascript)
+* [Fase 2](https://github.com/VladimirVarelaH/roadMap#fase-2-librer%C3%ADas-de-javascript-sparkles)
+  * [NodeJS y NPM](https://github.com/VladimirVarelaH/roadMap#paso-1-introducci%C3%B3n-a-nodejs-y-npm)
+  * [APIs y HTTP](https://github.com/VladimirVarelaH/roadMap#paso-2-introducci%C3%B3n-al-protocolo-http-y-las-apis)
+  * [React](https://github.com/VladimirVarelaH/roadMap#paso-3-introducci%C3%B3n-a-react-y-sus-librer%C3%ADas)
+  * [Sass](https://github.com/VladimirVarelaH/roadMap#paso-4-introducci%C3%B3n-a-sass)
+  * [Git](https://github.com/VladimirVarelaH/roadMap#paso-5-introducci%C3%B3n-a-git)
+  * [Proyecto](https://github.com/VladimirVarelaH/roadMap#paso-6-proyecto-integrador)
+  * [Opcional](https://github.com/VladimirVarelaH/roadMap#opcional-alternativas-a-react-vuejs--angular)
+* [Fase 3](https://github.com/VladimirVarelaH/roadMap#fase-3-bases-de-datos-floppy_disk)
+  * [Introducción](https://github.com/VladimirVarelaH/roadMap#paso1-introducci%C3%B3n-a-las-bases-de-datos)
+  * [MySQL](https://github.com/VladimirVarelaH/roadMap#paso-2-mysql)
+  * [Opcional](https://github.com/VladimirVarelaH/roadMap#opcional-mongodb)
+* [Fase 4](https://github.com/VladimirVarelaH/roadMap#fase-4-backend-satellite)
+  * [Introducción](https://github.com/VladimirVarelaH/roadMap#paso-1-introducci%C3%B3n-al-backend)
+  * [Tecnologías](https://github.com/VladimirVarelaH/roadMap#paso-2-tecnolog%C3%ADas-de-backend)
+  * [Proyecto](https://github.com/VladimirVarelaH/roadMap#paso-3-proyecto-integrador-crud-api)
+  * [Opcional](https://github.com/VladimirVarelaH/roadMap#opcional-desarrollo-con-mvc)
+* [Fase 5](https://github.com/VladimirVarelaH/roadMap#fase-5-mobile-apps-iphone)
+  * [Introducción](https://github.com/VladimirVarelaH/roadMap#paso-1-introducci%C3%B3n-al-desarrollo-movil)
+  * [React Native](https://github.com/VladimirVarelaH/roadMap#paso-2-introducci%C3%B3n-a-react-native)
+  * [FireBase](https://github.com/VladimirVarelaH/roadMap#opcional-firebase)
+  * [Opcional](https://github.com/VladimirVarelaH/roadMap#opcional-flutter--kotlin--swift)
+* [Despedida](https://github.com/VladimirVarelaH/roadMap#despedida-mortar_board)
+
+
 
 ## Fase 1: Fundamentos del Frontend :school_satchel:
 Como primera Fase se plantean las nociones básicas del desarrollo web frontend, para comenzar la aproximacion al mundo del desarrollo web y el desarrollo de interfases gráficas.
