@@ -6,7 +6,8 @@ Como primera Fase se plantean las nociones básicas del desarrollo web frontend,
 
 ### Paso 1: Introducción a la programación con JavaScript
 En este paso se busca conseguir las nociones y habilidades más básicas de la programación, conceptos como variables y constantes, funciones, loops y clases. Además de resolver ejercicios de código.  
-**Liks:**
+**Liks**
+* [Areas de la Programación](https://www.youtube.com/watch?v=QTDPOxnfRaI)
 * [Curso Profesional de JS](https://codigofacilito.com/cursos/javascript-profesional)
 * [Curso Introductorio JS (ver hasta el 49:20 aprox)](https://www.youtube.com/watch?v=bmGPv687toc)
 * [Intro a JS](https://www.youtube.com/watch?v=RqQ1d1qEWlE)
@@ -17,7 +18,7 @@ En este paso se busca conseguir las nociones y habilidades más básicas de la p
 
 ### Paso 2: Introducción a la maquetadicón Web (HTML/CSS)
 En este paso se buscan los conocimientos relacionados a la maquetaciónd de sitios web y cómo desarrollar páginas estáticas.  
-**Liks:**
+**Liks**
 * [Curso de HTML](https://www.youtube.com/watch?v=rbuYtrNUxg4)
 * [Curso de CSS de Código Facilito](https://codigofacilito.com/cursos/css-fundamentos)
 * [Curso de CSS de Fazt](https://www.youtube.com/watch?v=W6GTDfrWjXs)
@@ -25,7 +26,7 @@ En este paso se buscan los conocimientos relacionados a la maquetaciónd de siti
 
 ### Paso 3: Manipulación de DOM y eventos
 En este paso unirás los conocimientos que tines en Maquetación y Programación en JavaScript para poder hacer páginas con contenido dinámmico.  
-**Links:**
+**Links**
 * [Curso de manipulación del DOM](https://www.youtube.com/watch?v=RcQVT1smEFg)
 * [JS y el DOM](https://codigofacilito.com/cursos/javascript-dom)
 * [Curso de JQuery](https://codigofacilito.com/cursos/jquery)
@@ -39,7 +40,7 @@ En este paso unirás los conocimientos que tines en Maquetación y Programación
 
 ### Opcional: Efectos y animaciones con CSS y JavaScript
 Si se desea se pueden profundizar algunos conocimientos, como lo es el desarrollo de animaciones con CSS, HTML avanzado o HTML semántico.  
-**Links:**
+**Links**
 * [HTML Semántico](https://www.youtube.com/watch?v=pJb0UliJ1EM)
 * [HTML y SEO](https://www.youtube.com/watch?v=SJJ_dhxawCo)
 * [HTML5 Avanzado](https://codigofacilito.com/cursos/html5_avanzado)
@@ -51,7 +52,7 @@ Para poder desarrollar proyectos modernos y complejos es recomendable apoyarse d
 
 ### Paso 1: Introducción a Node.js y NPM
 Node y NPM son tecologías clave a la hora de utilizar JavaScript.  
-**Links:**
+**Links**
 * [Qué es Node?](https://www.youtube.com/watch?v=xJzzu7MVZXw)
 * [NP.. qué?](https://www.youtube.com/watch?v=KWKFCDMoS2w)
 * [Instalación](https://nodejs.org/en/)
@@ -74,7 +75,7 @@ Introducción a los conceptos centrales de esta tecnología y su entorno, manejo
 
 ### Paso 4: Introducción a Sass
 Sass en un preprocesador de CSS, que facilita el trabajo y mantenimiento del código que da estilos a las aplicaciones.  
-**Links:**
+**Links**
 * [Lista de reproducción de Sass](https://www.youtube.com/watch?v=Nro1WwTdCK4&list=PLPl81lqbj-4I4VwUdjbV2iFg7wispiXKP)
 * [Curso Sass](https://www.youtube.com/watch?v=BtiiM3jeb_c)
 * [Curso Sass](https://www.youtube.com/watch?v=rDBzoq86SXY)
@@ -96,7 +97,7 @@ Lo ideal es que en este paso definas tú qué proyecto desarrollar para poner a 
 * [API de StarWars](http://swapi.dev)
 
 ### Opcional: Alternativas a React (Vue.js / Angular).
-**Links:**
+**Links**
 * [Curso de Vue.JS](https://www.youtube.com/watch?v=iENgabVQSYY)
 * [Curso de Angular](https://www.youtube.com/watch?v=kqYuyACFVkE)
 
@@ -137,7 +138,7 @@ Para poder comenzar a desarrollar en el Backend es importante tener en claro cie
 
 ### Paso 2: Tecnologías de Backend
 En esta ruta se considdera la implemetación de soluciones utilizando JavaScript con NodeJS como lenguaje de programación, Express como framework y MySQL como base de datos, pero perfectamente podrías reemplazar MySQL por MongoDB, Express por NextJS o, si lo deseas, aprender otros lenguajes de programación y sus respectivos frameworks (como Python con Flask)  
-**Links:**
+**Links**
 * [Node.js desde Cero](https://www.youtube.com/watch?v=BhvLIzVL8_o&t=1197s)
 * [Levantando API con Express](https://www.youtube.com/watch?v=dkic3MU3858)
 * [Express desde Cero](https://www.youtube.com/watch?v=JmJ1WUoUIK4)
